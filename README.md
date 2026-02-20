@@ -36,7 +36,6 @@ HTML5-CSS-Basics/
 ├── article.html
 ├── audio-video.html
 ├── styles.html
-├── style.css
 └── README.md
 ```
 
